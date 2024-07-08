@@ -1,5 +1,7 @@
 ## Weather App
 This project is a weather app built using Next.js, TypeScript, Tailwind CSS, and several React libraries. It provides current weather details, hourly predictions, and additional information such as visibility, humidity, wind speed, air pressure, sunrise, and sunset. Users can view weather details for their current location or search by location name.
+## Weather App Live Link
+https://mausamrandom.netlify.app/
 ## Project Structure
 ```bash
 src/
