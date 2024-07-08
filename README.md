@@ -54,14 +54,8 @@ npm run dev
 ## API Key
 The API key is stored in the .env.local file for security purposes.
 ## Technology Used
-Next.js
-TypeScript
-Tailwind CSS
-React Icons
-React Query
-Axios
-Date-fns
-Jotai
+Next.js, TypeScript, Tailwind CSS, React Icons, React Query, Axios, Date-fns, Jotai.
 ## Contributing
 Contributions are welcome! Feel free to submit issues and pull requests.
 ## License
+This project is licensed under the MIT License.
