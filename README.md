@@ -18,11 +18,11 @@ src/
 │   │   ├── getDayOrNightIcon.ts        # Utility to get day or night icon
 │   │   ├── metersToKilometers.ts       # Utility to convert meters to kilometers
 │   │   ├── atom.ts                     # Utility for managing app state
-├── favicon.ico                          # App favicon
-├── globals.css                          # Global CSS styles
-├── layout.tsx                           # Layout component
-├── page.tsx                             # Main page component
-.env.local                               # Local environment file for API keys
+├── favicon.ico                         # App favicon
+├── globals.css                         # Global CSS styles
+├── layout.tsx                          # Layout component
+├── page.tsx                            # Main page component
+.env.local                              # Local environment file for API keys
 ```
 ## Installation
 To Run this project locally,follow these steps:
