@@ -29,7 +29,7 @@ To Run this project locally,follow these steps:
 1. Clone the repository:
 ```bash
 git clone https://github.com/abhayahlawat/weather_project.git
-cd weather-app
+cd weather-project
 ```
 2. Install dependencies:
 ```bash
